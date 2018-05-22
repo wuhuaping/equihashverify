@@ -253,7 +253,7 @@ inline bool EhOptimisedSolve(unsigned int n, unsigned int k, const eh_HashState&
     } else if (n == 200 && k == 9) {
         return Eh200_9.OptimisedSolve(base_state, validBlock, cancelled);
     } else if (n == 144 && k == 5) {
-        return Eh200_9.OptimisedSolve(base_state, validBlock, cancelled);
+        return Eh144_5.OptimisedSolve(base_state, validBlock, cancelled);
     } else if (n == 96 && k == 5) {
         return Eh96_5.OptimisedSolve(base_state, validBlock, cancelled);
     } else if (n == 48 && k == 5) {
