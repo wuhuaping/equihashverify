@@ -17,7 +17,7 @@
 #endif
 
 #include "crypto/common.h"
-#include "crypto/equihash.h"
+#include "crypto/Zhash.h"
 #include <algorithm>
 #include <iostream>
 #include <stdexcept>
