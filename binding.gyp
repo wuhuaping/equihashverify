@@ -12,7 +12,7 @@
                 "random.cpp",   
                 "util.cpp",
                 "utilstrencodings.cpp",
-                "crypto/equihash.cpp",
+                "crypto/Zhash.cpp",
                 "crypto/hmac_sha256.cpp",
                 "crypto/hmac_sha512.cpp",
                 "crypto/ripemd160.cpp",
