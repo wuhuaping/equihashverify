@@ -3,7 +3,7 @@
 #include <node_buffer.h>
 #include <v8.h>
 #include <stdint.h>
-#include "crypto/equihash.h"
+#include "crypto/Zhash.h"
 
 
 #include <vector>
