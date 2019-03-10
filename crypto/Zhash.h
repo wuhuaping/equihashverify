@@ -194,7 +194,7 @@ public:
     bool IsValidSolution(const eh_HashState& base_state, std::vector<unsigned char> soln);
 };
 
-#include "equihash.tcc"
+#include "Zhash.tcc"
 
 static Equihash<96,3> Eh96_3;
 static Equihash<200,9> Eh200_9;
