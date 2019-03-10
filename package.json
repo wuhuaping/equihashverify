@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZencashOfficial/equihashverify"
+    "url": "https://github.com/wuhuaping/equihashverify"
   },
   "keywords": [
     "zencash"
@@ -21,9 +21,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ZencashOfficial/equihashverify/issues"
+    "url": "https://github.com/wuhuaping/equihashverify/issues"
   },
-  "homepage": "https://github.com/ZencashOfficial/equihashverify",
+  "homepage": "https://github.com/wuhuaping/equihashverify",
   "dependencies": {
     "bindings": "*",
     "libsodium": "^0.7.3",
